@@ -1,0 +1,15 @@
+{
+  "name": "website-content-crawler-mcp",
+  "version": "1.0.0",
+  "description": "MCP wrapper for website content crawler",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0",
+    "apify-client": "^2.25.0",
+    "axios": "^1.6.0"
+  }
+}
